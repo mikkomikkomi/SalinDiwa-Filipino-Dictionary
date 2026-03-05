@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="salindiwa-logo" src="https://github.com/user-attachments/assets/c77c7e3d-cfd9-463a-ad3a-7cf42ee56a56" />
+
 # SalinDiwa - Mobile Filipino Dictionary
 
 SalinDiwa is a mobile dictionary app designed to help users learn and translate Filipino words. It includes a search feature, a dictionary list, and a built-in quiz mode to test your vocabulary knowledge. **This was made, as an independent project, for a friend's research.**
