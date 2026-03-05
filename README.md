@@ -2,10 +2,6 @@
 
 SalinDiwa is a mobile dictionary app designed to help users learn and translate Filipino words. It includes a search feature, a dictionary list, and a built-in quiz mode to test your vocabulary knowledge. **This was made for as an independent project for a friend's research**
 
-## Screenshots
-
-*(Drag and drop your screenshots here! I recommend adding the landing page and the quiz mode so people can see the design immediately.)*
-
 ## My Contributions
 
 For this project, my main focus was on the front-end and visual design of the application. My specific tasks included:
