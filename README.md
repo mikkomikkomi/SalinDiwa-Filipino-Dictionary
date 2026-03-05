@@ -12,7 +12,6 @@ For this project, my main focus was on the front-end and visual design of the ap
 
 ## Tech Stack
 
-* **Design:** Figma (for UI mockups)
 * **Development:** Android Studio
 * **Language:** Java / Kotlin *(Make sure to update this to whatever language you actually used!)*
 
