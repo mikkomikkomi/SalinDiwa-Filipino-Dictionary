@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="salindiwa-logo" src="https://github.com/user-attachments/assets/c77c7e3d-cfd9-463a-ad3a-7cf42ee56a56" />
+<img width="512" height="512" alt="salindiwa-logo" src="https://github.com/user-attachments/assets/c77c7e3d-cfd9-463a-ad3a-7cf42ee56a56" />
 
 # SalinDiwa - Mobile Filipino Dictionary
 
