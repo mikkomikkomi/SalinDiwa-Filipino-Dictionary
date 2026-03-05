@@ -1,50 +1,28 @@
-# Welcome to your Expo app 👋
+# SalinDiwa - Mobile Filipino Dictionary
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+SalinDiwa is a mobile dictionary app designed to help users learn and translate Filipino words. It includes a search feature, a dictionary list, and a built-in quiz mode to test your vocabulary knowledge.
 
-## Get started
+## Screenshots
 
-1. Install dependencies
+*(Drag and drop your screenshots here! I recommend adding the landing page and the quiz mode so people can see the design immediately.)*
 
-   ```bash
-   npm install
-   ```
+## My Contributions
 
-2. Start the app
+For this project, my main focus was on the front-end and visual design of the application. My specific tasks included:
+* Designing the overall UI and user experience.
+* Creating the custom splash screen that loads when you open the app.
+* Choosing and implementing the color scheme (the green and off-white theme).
+* Structuring the layout for the quiz mode and dictionary pages to make them easy to read.
 
-   ```bash
-   npx expo start
-   ```
+## Tech Stack
 
-In the output, you'll find options to open the app in a
+* **Design:** Figma (for UI mockups)
+* **Development:** Android Studio
+* **Language:** Java / Kotlin *(Make sure to update this to whatever language you actually used!)*
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## How to Run the Project
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+1. Clone this repository to your local machine.
+2. Open the project folder in Android Studio.
+3. Let Gradle sync and build the project.
+4. Run the app on an emulator or a connected Android device.
