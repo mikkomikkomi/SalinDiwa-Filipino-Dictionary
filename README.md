@@ -15,7 +15,7 @@ SalinDiwa is a mobile dictionary app designed to help users learn and translate 
 
 * React Native
 * Expo
-* TypeScript
+* TypeScript/JavaScript
 
 ## How to Run Locally
 
