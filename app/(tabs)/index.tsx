@@ -8,6 +8,7 @@ import {
 import { Ionicons } from "@expo/vector-icons";
 import { BlurView } from "expo-blur";
 import * as Clipboard from "expo-clipboard";
+import { Image } from "expo-image";
 import { LinearGradient } from "expo-linear-gradient";
 import * as Speech from "expo-speech";
 import React, { useEffect, useMemo, useRef, useState } from "react";
@@ -17,7 +18,6 @@ import {
   Animated,
   Dimensions,
   Easing,
-  Image,
   Pressable,
   ScrollView,
   SectionList,
@@ -889,7 +889,7 @@ const GameOverCard = ({ score, onRetry, theme }: any) => {
           paddingVertical: 15,
           borderRadius: 25,
         }}
-        onPress={onRetry}
+        onRetry={onRetry}
       >
         <Text
           style={{ color: "#fff", fontFamily: "Poppins_700Bold", fontSize: 16 }}
@@ -1314,7 +1314,12 @@ export default function App() {
         onPress={() => setSelectedWord(item)}
       >
         {item.IMAGE ? (
-          <Image source={item.IMAGE} style={styles.listImage} />
+          <Image
+            source={item.IMAGE}
+            style={styles.listImage}
+            contentFit="cover"
+            transition={200}
+          />
         ) : (
           <LinearGradient
             colors={overdrive.gradient}
@@ -1897,7 +1902,8 @@ export default function App() {
                       <Image
                         source={selectedWord.IMAGE}
                         style={styles.carouselImage}
-                        resizeMode="cover"
+                        contentFit="cover"
+                        transition={300}
                       />
                     </View>
                   )}
