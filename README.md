@@ -14,8 +14,8 @@ For this project, my main focus was on the front-end and visual design of the ap
 
 ## Tech Stack
 
-* **Development:** Android Studio
-* **Language:** Java / Kotlin
+* **Development:** VS Code, Expo
+* **Language:** React Native, JavaScript
 
 ## How to Run the Project
 
